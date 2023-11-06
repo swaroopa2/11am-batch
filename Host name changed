@@ -1,0 +1,5 @@
+sudo hostnamectl set-hostname jenkins
+/bin/bash
+
+sudo hostnamectl set-hostname sonarqube
+/bin/bash
